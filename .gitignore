@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Optional: don't upload large files (remove # if you want to keep them)
+# xgb_carbon_model.pkl
+# nyc_carbon_data.csv
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
